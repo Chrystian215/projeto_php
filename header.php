@@ -12,7 +12,7 @@
     </head>
     <body>
             <div class="title-div">  
-                <h3 class="title"> 
+                <h3 class="title white"> 
 
                     Formulario em PHP
 
