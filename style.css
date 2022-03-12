@@ -1,0 +1,34 @@
+.title{
+
+    background-color: rgba(7, 44, 114, 0.527);
+}
+
+.title-div{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 1px;
+}
+
+.botao-home{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+
+}
+
+.body{
+
+    background-color: rgb(32, 32, 184);
+}
+
+
+
