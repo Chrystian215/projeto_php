@@ -24,20 +24,19 @@
 
   <div class="form-group">
     <div class="col-sm-offset-2 col-sm-10">
+    <button type="button" class="btn btn-primary" > Entrar </button>
+    </div>
+  </div>
+  
+  <div class="form-group">
+    <div class="col-sm-offset-2 col-sm-10">
       <div class="checkbox">
         <label class="white">
-          <input type="checkbox"> Check Box
+          <input type="checkbox" class="white"> Check Box
         </label>
       </div>
     </div>
   </div>
-
-  <div class="form-group">
-    <div class="col-sm-offset-2 col-sm-10">
-    <button type="button" class="btn btn-primary" > Entrar </button>
-    </div>
-  </div>
-</form>
 
 <input type="text" class="form-control" placeholder="Digite sua Opnião">
   </div>
